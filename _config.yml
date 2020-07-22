@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Minsu Kim
+author: Business&Data Analyst, Growth Hacker
+email: justdoms96@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  데이터에서 비지니스 문제의 인사이트를 찾고, 해결하고, 생각하는
+  경영학도입니다. 실패에서 오는 경험을 즐기려고 노력하고 있습니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +11,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Minsu Kim
+  tagline: Business&Data Analyst, Growth Hacker
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -23,19 +22,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
+    github:  MINSUKIM-BA/portfolio
     linkedIn: in/thelehhman
-    rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
-    facebook: jekyll
-    soundcloud: jekyll
-    telegram: jekyll
-    gitlab: jekyll
+    instagram: minshu_96
 
     # Mastodon instances
     # mastodon:
