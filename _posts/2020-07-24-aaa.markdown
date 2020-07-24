@@ -1,42 +1,18 @@
 ---
 layout: post
 title:  "안녕하세요"
-date:   2019-03-23 21:03:36 +0530
-categories: 1번 2번
+date:   2020-07-24 17:30:00 +0000
+categories: 기획 포트폴리오
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+데이터에서 비지니스 문제의 인사이트를 찾고, 해결하고, 생각하는
+경영학도입니다. 실패에서 오는 경험을 즐기려고 노력하고 있습니다.
 
 ```python
-import pprint
+import print
 
-arr = []
-print(arr)
 ```
-DFDF
-```python
-import pprint
 
-arr = []
-print(arr)
-```
-DFDF
-```python
-import pprint
-
-arr = []
-print(arr)
-```
-DFDFDFDF
-```python
-import pprint
-
-arr = []
-print(arr)
-```
-# 안녕하세요
-
-
-![ex_screenshot](/portfolio/assets/portfolio.png)
+# 테스트 진행 중 입니다.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
