@@ -25,7 +25,9 @@ plainwhite:
     github:  MINSUKIM-BA/portfolio
     linkedIn: in/thelehhman
     instagram: minshu_96
-
+  navigation:
+    - title: POST
+      url: "/posts"
     # Mastodon instances
     # mastodon:
     # - username: jekyll
